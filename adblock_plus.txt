@@ -23,3 +23,5 @@ www.xixizhan.com##DIV[id="coFrameDiv"]
 www.xixizhan.com##DIV[id="__jx_fml_Div"]
 ||material-ssl.mediav.com/
 xixizhan.com###mvdiv_1269053_holder
+xixizhan.com###ifrmainad
+xixizhan.com##iframe[src="JavaScript:parent.goURLad()"]
